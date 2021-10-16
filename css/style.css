@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.Horve-all:hover{
+    background-color: red;
+}
+.Menu{
+    color: black;
+}
